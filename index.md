@@ -87,8 +87,7 @@ PSLF
 Assess system stability and control interactions for a point-to-point HVDC project.
 
 **Scope & Work:**
--Assess the reactive power capability of the HVDC project at the point of interconnection (POI) and verify its compliance with WECC’s reactive power requirement,
--Identify any additional requirement of reactive power compensation at the Substation considering different loading conditions in the WECC area and operation scenarios of the HVDC project.
+
 
 
 **Tools:**
