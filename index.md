@@ -40,9 +40,12 @@ I am a transmission planning engineer with hands-on experience supporting interc
 ## Professional Experience
 
 - Supported transmission planning and interconnection studies for BESS, solar, and HVDC projects
-- Performed reactive power capability (V–Q) and voltage control assessments per ERCOT requirements
-- Conducted EMT-based simulations to evaluate converter behavior and AC/DC interactions
-- Collaborated with utilities, developers, and OEMs to support grid compliance and planning studies
+- Network data checks and validation of transmission models
+-Load‑flow analysis, mismatch identification, and model validation
+-Short‑circuit studies and fault analysis
+-Preliminary stability studies for system performance assessment
+-Reactive power capability studies and voltage support evaluation
+
 
 ---
 
@@ -59,7 +62,7 @@ Verify ERCOT reactive power compliance at the Point of Interconnection (POI).
 - Assessed charging, discharging, and idle operating modes
 
 **Tools:**
-PowerFactory, PSS®E, Excel, Python
+PowerFactory, Excel, Python
 
 ---
 
@@ -73,7 +76,7 @@ Assess system stability and control interactions for a point-to-point HVDC proje
 - Identified stability risks and mitigation recommendations
 
 **Tools:**
-PSCAD / EMTDC
+PSLF
 
 ---
 
