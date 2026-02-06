@@ -80,28 +80,45 @@ PSLF
 
 ---
 
-### MTDC & AI-Based Anomaly Detection (Concept Study)
+###(BESS + Syncon): Grid Code Compliance Study
 **Objective:**
-Explore early detection of instability and faults in MTDC systems.
-
+Evaluate system stability and performance under fault conditions, both balanced and unbalanced.
 **Scope & Work:**
-- Analyzed MTDC configurations and control interactions
-- Studied fault signatures and instability indicators
-- Applied Python-based data analytics concepts for anomaly detection
+ The points to be evaluated are the following: 
+-Reactive power capacity  
+-Automatic voltage regulation. 
+-Ability to withstand voltage dips. 
+-Frequency requirements. 
+-Active Power Control. 
 
 **Tools:**
-PSCAD, Python
+PSSE, Python
 
 ---
 
+### HVDC Reactive Power Compensation Study
+**Objective:**
+Assess system stability and control interactions for a point-to-point HVDC project.
+
+**Scope & Work:**
+-	Assess the reactive power capability of the HVDC project at the point of interconnection (POI) and verify its compliance with WECC’s reactive power requirement,
+	Identify any additional requirement of reactive power compensation at the Substation considering different loading conditions in the WECC area and operation scenarios of the HVDC project.
+
+
+**Tools:**
+PSSE, Python
+
+---
+
+
 ## Certifications & Training
-- Power System Stability & EMT Simulation (IEEE / Industry Training)
-- Python for Power System Analysis
+
 - Ongoing learning in AI applications for power systems
+- Power Plateform tool (Power BI, Power Automate)
 
 ---
 
 ## Contact
-📧 Email: monika@email.com
-📍 Location: United States
-💼 Open to Transmission Planning & HVDC roles
+Email: techmonika004@email.com
+Location: United States
+Open to Power System Consultant role
