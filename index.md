@@ -81,22 +81,6 @@ PSLF
 
 ---
 
-### (BESS + Syncon): Grid Code Compliance Study
-**Objective:**
-Evaluate system stability and performance under fault conditions, both balanced and unbalanced.
-
-**Scope & Work:**
- The points to be evaluated are the following: 
--Reactive power capacity  
--Automatic voltage regulation. 
--Ability to withstand voltage dips. 
--Frequency requirements. 
--Active Power Control. 
-
-**Tools:**
-PSSE, Python
-
----
 
 ### HVDC Reactive Power Compensation Study
 **Objective:**
