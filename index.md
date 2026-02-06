@@ -81,7 +81,7 @@ PSLF
 
 ---
 
-###(BESS + Syncon): Grid Code Compliance Study
+(BESS + Syncon): Grid Code Compliance Study
 **Objective:**
 Evaluate system stability and performance under fault conditions, both balanced and unbalanced.
 **Scope & Work:**
