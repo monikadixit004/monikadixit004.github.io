@@ -8,7 +8,7 @@ title: Monika Dixit | Power System Consultant
 
 Power systems engineer with experience in U.S. transmission planning, HVDC systems, and BESS interconnection studies. Specialized in reactive power capability analysis, EMT simulations, and grid reliability studies aligned with ISO/RTO requirements.
 
-[Download Resume](assets/Monika_Dixit_Resume.pdf) • [LinkedIn](https://www.linkedin.com)
+[Download Resume](MONIKA-Resume-2026-V1.pdf) • [LinkedIn](https://www.linkedin.com)
 
 ---
 
