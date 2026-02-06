@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Monika Dixit | Transmission Planning Engineer
+title: Monika Dixit | Power System Consultant
 ---
 
 # Monika Dixit
-### Transmission Planning Engineer | HVDC & BESS | PSCAD | PSS®E | ERCOT / MISO / PJM
+### Power System Consultant | HVDC & BESS | PSCAD | PSS®E |
 
 Power systems engineer with experience in U.S. transmission planning, HVDC systems, and BESS interconnection studies. Specialized in reactive power capability analysis, EMT simulations, and grid reliability studies aligned with ISO/RTO requirements.
 
@@ -19,30 +19,25 @@ I am a transmission planning engineer with hands-on experience supporting interc
 
 ## Technical Skills
 
-**Power System Domains**
 - Transmission Planning & Interconnection Studies
 - HVDC (Point-to-Point and MTDC)
-- Battery Energy Storage Systems (BESS)
-- Reactive Power & Voltage Stability
 - Inverter-Based Resource (IBR) Integration
+- Python to automate various studies
 
 **Simulation & Analysis Tools**
-- PSCAD / EMTDC
-- PSS®E
+- PSCAD 
+- PSSE
 - DIgSILENT PowerFactory
-- ETAP
+- PSLF
 - Python (data analysis & automation)
 
 **Standards & Regions**
-- ERCOT, MISO, PJM, CAISO
+- ERCOT, MISO, CAISO, WECC, SPP
 - NERC, IEEE
 
 ---
 
 ## Professional Experience
-
-### Power Systems Engineer / Consultant
-**United States | Transmission & HVDC Studies**
 
 - Supported transmission planning and interconnection studies for BESS, solar, and HVDC projects
 - Performed reactive power capability (V–Q) and voltage control assessments per ERCOT requirements
