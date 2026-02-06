@@ -4,7 +4,7 @@ title: Monika Dixit | Power System Consultant
 ---
 
 # Monika Dixit
-### Power System Consultant | HVDC & BESS | PSCAD | PSS®E |
+### Power System Consultant 
 
 Power systems engineer with experience in U.S. transmission planning, HVDC systems, and BESS interconnection studies. Specialized in reactive power capability analysis, EMT simulations, and grid reliability studies aligned with ISO/RTO requirements.
 
@@ -13,7 +13,8 @@ Power systems engineer with experience in U.S. transmission planning, HVDC syste
 ---
 
 ## About Me
-I am a transmission planning engineer with hands-on experience supporting interconnection and grid reliability studies for inverter-based resources and HVDC systems in the United States. My work includes reactive power capability assessments, steady-state and dynamic simulations, and EMT-based studies using industry-standard tools such as PSCAD, PSS®E, and PowerFactory. I am particularly interested in HVDC stability, BESS integration, and grid modernization initiatives.
+I am a Power System Consultant with hands-on experience supporting grid integration of inverter based resources, including solar PV, battery energy storage (BESS), wind, hybrid, and HVDC systems. My expertise includes load flow, contingency, reactive power, power evacuation, and stability analyses using tools such as PSSE, PSCAD, PSLF and DIgSILENT PowerFactory.
+I have supported interconnection and feasibility studies across major North American ISOs and regions, including ERCOT, CAISO, MISO, SPP, and WECC, working closely with developers and stakeholders throughout the study lifecycle. My work emphasizes technical rigor, regulatory compliance, and practical solutions to enable reliable, cost effective renewable energy integration. 
 
 ---
 
